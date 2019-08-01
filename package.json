@@ -1,0 +1,22 @@
+{
+  "name": "data-selfie-app",
+  "version": "1.0.0",
+  "description": "data selfie app with client, server, and db",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "expressjs",
+    "p5js",
+    "nedb",
+    "nodejs"
+  ],
+  "author": "Sunny Park",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nedb": "^1.8.0"
+  }
+}
